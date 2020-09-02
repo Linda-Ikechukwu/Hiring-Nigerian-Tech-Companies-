@@ -5,10 +5,12 @@ To contribute to this project, see the contributing guide.
 
 ## Lagos 
 
-1. [AgroMall](!https://theagromall.com/careers/vacancies)
+1. [AgroMall](https://theagromall.com/careers/vacancies)
+
    AgroMall works with smallholder farmers and agribusinesses to access varieties of affordable financial services that will help them to improve their practices and expand their    production.
 
 ## Kano
 
-1. [Mercurie](!https://www.mercurie.com/careers/)
+1. [Mercurie](https://www.mercurie.com/careers/)
+
    Mercurie is a digital agency building digital solutions to help businesses thrive. From simple websites to complex web apps, mobile apps, eCommerce and end-to-end digitization.
