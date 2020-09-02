@@ -3,6 +3,11 @@ A list of Nigerian Tech companies (sorted according to cities), that post their 
 
 To contribute to this project, see the contributing guide. 
 
+## Lagos 
+
+1. [AgroMall](!https://theagromall.com/careers/vacancies)
+   AgroMall works with smallholder farmers and agribusinesses to access varieties of affordable financial services that will help them to improve their practices and expand their    production.
+
 ## Kano
 
 1. [Mercurie](!https://www.mercurie.com/careers/)
