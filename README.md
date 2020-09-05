@@ -8,6 +8,10 @@ To contribute to this project, see the contributing guide.
 1. [AgroMall](https://theagromall.com/careers/vacancies)
 
    AgroMall works with smallholder farmers and agribusinesses to access varieties of affordable financial services that will help them to improve their practices and expand their    production.
+   
+2. [Estate Intel](https://estateintel.com/about-us/)
+
+   Estate Intel is a data platform that helps organisations interacting with the real estate and construction industry make faster and smarter decisions. In their words 'We are      the single source of truth for instant access to real estate data.
 
 ## Kano
 
