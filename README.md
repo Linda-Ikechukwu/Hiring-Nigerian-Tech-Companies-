@@ -12,6 +12,10 @@ To contribute to this project, see the contributing guide.
 2. [Estate Intel](https://estateintel.com/about-us/)
 
    Estate Intel is a data platform that helps organisations interacting with the real estate and construction industry make faster and smarter decisions. In their words 'We are      the single source of truth for instant access to real estate data.
+   
+3. [Patricia](https://www.mypatricia.co/careers)
+
+   Patricia is a fintech startup that harnesses the power of cryptocurrency to create alternative solutions to financial infrastructure, digital payments and global E-commerce.
 
 ## Kano
 
