@@ -16,6 +16,10 @@ To contribute to this project, see the contributing guide.
 3. [Patricia](https://www.mypatricia.co/careers)
 
    Patricia is a fintech startup that harnesses the power of cryptocurrency to create alternative solutions to financial infrastructure, digital payments and global E-commerce.
+   
+4. [Analog](https://www.notion.so/ANALOG-CAREERS-fd0b2779214c477a9afc948cfc4e32e5)
+
+   Analog is a software developement agency that outsources remote developers to other organisations.
 
 ## Kano
 
